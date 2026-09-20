@@ -29,6 +29,11 @@
                 <h3>Future Ready</h3>
                 <p>The static arrays can later be replaced by models and database records.</p>
             </div>
+             <div>
+                <span class="detail-number">04</span>
+                <h3>Created by AbeleOps</h3>
+                <p>NightPOS was developed by AbeleOps as a demonstration of CodeIgniter 4's capabilities.</p>
+            </div>
         </div>
     </div>
 </section>
